@@ -1,0 +1,9 @@
+{
+	"name": "nodetorrent",
+	"version": "0.0.1",
+	"author": "youran.me",
+	"license":"MIT",
+	"scripts": {
+		"start": "node nodetorrent.js"
+	}
+}
